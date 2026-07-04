@@ -1,0 +1,9 @@
+metric,value
+Baseline conversion rate,12.00%
+Target conversion rate (design),13.80%
+Required sample size per group,"5,438"
+Observed control CR,11.68%
+Observed treatment CR,13.20%
+Conversion z-test p-value,0.00794
+AOV t-test p-value,0.00000
+Revenue-per-visitor lift,Rs.4.40

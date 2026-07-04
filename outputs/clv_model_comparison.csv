@@ -1,0 +1,3 @@
+model,mae,r2
+Linear Regression,2462.49,0.482
+Gradient Boosting,1454.77,0.67
